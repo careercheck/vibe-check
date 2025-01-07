@@ -9,7 +9,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog"
-import { useTypewriter } from './hooks/use-typewriter'
+import { useTypewriter } from '@/hooks/use-typewriter';
 
 export default function VibeCheck() {
   const [profile1, setProfile1] = useState('')
@@ -105,3 +105,4 @@ export default function VibeCheck() {
     </div>
   )
 }
+

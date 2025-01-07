@@ -19,4 +19,3 @@ export function useTypewriter(text: string, speed: number = 100) {
 
   return displayText
 }
-
